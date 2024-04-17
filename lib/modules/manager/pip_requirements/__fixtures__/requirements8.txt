@@ -6,3 +6,4 @@ bgg==0.22.1 \
     --hash=sha256:aaa53aea1cecb8a6e1288d6bfe52a51408a264a97d5c865c38b34ae16c9bff88
 html2text==2016.1.8 \
     --hash=sha256:088046f9b126761ff7e3380064d4792279766abaa5722d0dd765d011cf0bb079
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

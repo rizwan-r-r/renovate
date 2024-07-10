@@ -1,7 +1,7 @@
 # Repositories
 --extra-index-url http://example.com/private-pypi/
 # Packages
-Django[argon2]==2.0.12
+Django==4.2.14
 celery [redis]==4.1.1
 foo [bar] == 3.2.1 # handles extra white space
 some-package==0.3.1
